@@ -10,9 +10,9 @@ import pika
 # PASSWORD = "tNhqawuyTs3W0-pOrL6WpxU1SBCNZ1hb"
 # VHOST = "etpyjjad"
 
-RABBITMQ_HOST = "shark.rmq.cloudamqp.com"
-RABBITMQ_PORT = 1883
-USERNAME = "gxejfhds:gxejfhds"
+RABBITMQ_HOST = "shark-01.rmq.cloudamqp.com"
+RABBITMQ_PORT = 5672
+USERNAME = "gxejfhds"
 PASSWORD = "7TGPPF21qN0WLvZP-mumV4iC1cxpCZbs"
 VHOST = "gxejfhds" # No se si este VHOST este bien
 
